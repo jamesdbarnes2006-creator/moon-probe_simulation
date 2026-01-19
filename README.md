@@ -14,7 +14,7 @@ This project simulates the motion of the Moon around a stationary Earth and a pr
 3. The script will plot Moon and probe trajectories
 4. Automatically checks energy conservation.
 
-##Example Output
+## Example Output
 
 Here is an example simulation of one lunar year for the Moon and probe:
 
