@@ -18,7 +18,7 @@ This project simulates the motion of the Moon around a stationary Earth and a pr
 
 Here is an example simulation of one lunar year for the Moon and probe:
 
-![Moon and Probe Trajectories](lunar year figure.png)
+![Moon and Probe Trajectories](lunar_year_figure.png)
 
 ## Features
 - 2D Plots of Moon and probe orbits 
