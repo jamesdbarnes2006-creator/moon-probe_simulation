@@ -1,6 +1,6 @@
 # Moon-Probe Simulation
 
-This project simulates the motion of the Moon around a stationary Earth and a probe flying near the Moon using numerical integration (RK45). Visualises trajectories and checks energy conservation.
+This project simulates the motion of the Moon around a stationary Earth and a probe flying near the Moon using numerical integration (RK45). Visualises trajectories and checks energy conservation. A written report on the findings of this project is included.
 
 ## Requirements
 - Python 3.x
@@ -24,6 +24,7 @@ Here is an example simulation of one lunar year for the Moon and probe:
 - 2D Plots of Moon and probe orbits 
 - Interactive menu for timescale 
 - Energy conservation check
+- Written report analysing results
 
 ## Author
 James Barnes – Physics Student, University of Bristol
